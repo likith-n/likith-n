@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/likith_2403" target="blank"><img src="https://img.shields.io/twitter/follow/likith_2403?logo=twitter&style=for-the-badge" alt="likith_2403" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science and ML**
 
 - 🌱 I’m currently learning **Data Science**
 
